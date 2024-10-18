@@ -540,7 +540,7 @@ const BLOG = {
     process.env.NEXT_PUBLIC_DESCRIPTION || '这是一个由NotionNext生成的站点', // 站点描述，被notion中的页面描述覆盖
 
   // 开发相关
-  NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || 'b8cbb71b46154c91a3feaeb2e66ff7ea', // Useful if you prefer not to make your database public
+  NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || 'c00b3784-6b4b-41f8-a941-716799a7e18a', // Useful if you prefer not to make your database public
   DEBUG: process.env.NEXT_PUBLIC_DEBUG || false, // 是否显示调试按钮
   ENABLE_CACHE:
     process.env.ENABLE_CACHE ||
